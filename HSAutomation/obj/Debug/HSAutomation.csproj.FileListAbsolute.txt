@@ -1,0 +1,11 @@
+C:\Code\HSAutomation\HSAutomation\bin\Debug\HSAutomation.dll
+C:\Code\HSAutomation\HSAutomation\bin\Debug\HSAutomation.pdb
+C:\Code\HSAutomation\HSAutomation\bin\Debug\WebDriver.dll
+C:\Code\HSAutomation\HSAutomation\bin\Debug\WebDriver.Support.dll
+C:\Code\HSAutomation\HSAutomation\bin\Debug\WebDriver.xml
+C:\Code\HSAutomation\HSAutomation\bin\Debug\WebDriver.Support.xml
+C:\Code\HSAutomation\HSAutomation\obj\Debug\HSAutomation.csproj.CoreCompileInputs.cache
+C:\Code\HSAutomation\HSAutomation\obj\Debug\HSAutomation.csproj.CopyComplete
+C:\Code\HSAutomation\HSAutomation\obj\Debug\HSAutomation.dll
+C:\Code\HSAutomation\HSAutomation\obj\Debug\HSAutomation.pdb
+C:\Code\HSAutomation\HSAutomation\obj\Debug\HSAutomation.csprojAssemblyReference.cache
